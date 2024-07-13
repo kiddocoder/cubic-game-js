@@ -15,11 +15,11 @@ html, body {
     
     .text {
       text-align: center;
-      font-family: Helvetica;
+      font-family: Helvetica; 
       font-size: 0.8rem;
-      color: grey;
+      color: grey; 
       pointer-events: none;
-    }
+    } 
     
     .centered, .cube > .piece > .element > .sticker {
       position: absolute;
